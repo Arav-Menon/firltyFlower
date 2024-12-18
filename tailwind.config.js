@@ -5,7 +5,14 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        'post1color' : "#464646",
+      },
+      fontFamily : {
+        "NavFont" : ["Syncopate", "sans-serif"],
+      }
+    },
   },
   plugins: [],
 }
