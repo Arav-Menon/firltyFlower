@@ -3,7 +3,7 @@ import React from 'react'
 function Navbar() {
   return (
     <>
-    <div id="navbar" className='flex justify-between items-center p-12 text-2xl font-extrabold uppercase text-post1color font-NavFont ' >
+    <div id="navbar" className='flex justify-between items-center p-12 text-2xl font-extrabold uppercase text-post1color font-Font_1 ' >
       <div>Menu</div>
       <div>firlty flower</div>
       <div>cart</div>
